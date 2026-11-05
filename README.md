@@ -18,6 +18,10 @@ World Happiness Report 2015 (Kaggle) : 158 pays, 12 colonnes. Les facteurs
 - Afrique subsaharienne : région la plus basse (n = 40, résultat robuste).
 - Australie/Nouvelle-Zélande et Amérique du Nord : scores les plus élevés, mais sur 2 pays chacune.
 
+- ![Score vs PIB](images/score_vs_gdp.png)
+![Corrélations](images/correlations.png)
+![Score par région](images/score_par_region.png)
+
 ## Limites
 - Corrélation n'est pas causalité.
 - Multicolinéarité entre PIB et santé (corrélation de 0,82).
